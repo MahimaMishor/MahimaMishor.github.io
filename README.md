@@ -1,6 +1,7 @@
-# JoshAlvarado.github.io
+# MahimaMishor.github.io
 
-Github Repo for Joshua Alvarado's Website
+Github Repo for website
+
 
 
 ## How to get your own?
